@@ -536,5 +536,5 @@ Jetbrains Badges
 
 ----
 ## License
-[MIT Licensed](https://github.com/AL3X-Github/AwesomeBadges/blob/main/LICENSE) (file [LICENSE](LICENSE)).
-© [I𝗓υɱi 和泉](https://GitHub.com/AL3X-Github), 2022-23.
+- [MIT Licensed](https://github.com/AL3X-Github/AwesomeBadges/blob/main/LICENSE) (file [LICENSE](LICENSE)).
+- © [I𝗓υɱi 和泉](https://GitHub.com/AL3X-Github), 2022-23.
